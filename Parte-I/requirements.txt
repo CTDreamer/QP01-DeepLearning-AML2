@@ -1,0 +1,18 @@
+# Deep Learning
+torch==2.10.0
+torchvision==0.25.0
+
+# Datos e imágenes
+numpy==2.4.2
+pandas==3.0.1
+opencv-python==4.13.0.92
+
+# Visualización
+matplotlib==3.10.8
+
+# Machine Learning (split train/test)
+scikit-learn==1.8.0
+
+# Jupyter
+jupyter_client==8.8.0
+ipykernel==7.2.0
